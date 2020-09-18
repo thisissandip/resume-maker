@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fecd509d47d8d8d2e9fb2a7b406439b5",
+    "revision": "2e8d5230082c9c4156a6c576d4cdff5f",
     "url": "/resume-maker/index.html"
   },
   {
-    "revision": "d057b6a2407119e581ad",
-    "url": "/resume-maker/static/css/main.e771c314.chunk.css"
+    "revision": "f0bf35f30981637594f1",
+    "url": "/resume-maker/static/css/main.d61130fe.chunk.css"
   },
   {
     "revision": "83288b71baad39c7918c",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resume-maker/static/js/4.3eecc6a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d057b6a2407119e581ad",
+    "revision": "f0bf35f30981637594f1",
     "url": "/resume-maker/static/js/main.bfec93d4.chunk.js"
   },
   {
